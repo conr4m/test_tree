@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыРабот" id="f40cdbba-7177-4f95-9aab-411f1fcc3f4b" configVersion="57bf6431a7353d4eabccccfe1a77c1ab00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6660fb58-d474-4c9c-9739-6c20bf4e08d5" configVersion="e5be8126f42de94cb0c5dc4f2562c86900000000"/>
+		<Metadata name="Document.Смета" id="d8d215b6-f603-41af-ad13-d72b61a7a651" configVersion="3233749f1e32fc4b9ab9ada6687c913500000000">
+			<Metadata name="Document.Смета.TabularSection.ПланированиеРабот.Attribute.ВидРаботы" id="06601c96-d06b-4e12-a8b8-a2dcfb5a16c9"/>
+			<Metadata name="Document.Смета.TabularSection.ПланированиеРабот" id="6266df77-46c9-4604-859e-c8ee490e4c87"/>
+			<Metadata name="Document.Смета.TabularSection.ПланированиеРабот.Attribute.Количество" id="f6a95e23-fe19-40f2-980a-89da3cf184ae"/>
+		</Metadata>
+		<Metadata name="Document.Смета.Form.ФормаДокумента" id="43eceb29-591a-4419-9154-13c65223a6a6" configVersion="55a5e54e6347f945ba6559330f7878e000000000"/>
+		<Metadata name="Document.Смета.Form.ФормаДокумента.Form" id="43eceb29-591a-4419-9154-13c65223a6a6.0" configVersion="ce0913a4cd08a94c953df00ba36eb40e00000000"/>
+		<Metadata name="Language.Русский" id="aab4fc38-26a2-4bce-a73e-757dd5623dfd" configVersion="8aa3a8d5b6ba8c46808f448ae9b894a200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
